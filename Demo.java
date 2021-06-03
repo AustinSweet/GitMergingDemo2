@@ -7,7 +7,8 @@ public class Demo {
         int u = 4;
         int v = 5;
         int w = 6;
-        System.out.println(x + " " + y + " " + z + " " + u + " " + v + " " + w);
+        int h = 7;
+        System.out.println(x + " " + y + " " + z + " " + u + " " + v + " " + w + " " + h);
     }
 
 }
