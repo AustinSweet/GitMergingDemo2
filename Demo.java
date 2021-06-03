@@ -5,7 +5,9 @@ public class Demo {
         int y = 2;
         int z = 3;
         int u = 4;
-        System.out.println(x + " " + y + " " + z + " " + u);
+        int v = 5;
+        int w = 6;
+        System.out.println(x + " " + y + " " + z + " " + u + " " + v + " " + w);
     }
 
 }
