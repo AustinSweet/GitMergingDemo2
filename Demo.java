@@ -4,7 +4,8 @@ public class Demo {
         int x = 1;
         int y = 2;
         int z = 3;
-        System.out.println(x + " " + y + " " + z);
+        int u = 4;
+        System.out.println(x + " " + y + " " + z + " " + u);
     }
 
 }
